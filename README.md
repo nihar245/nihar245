@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Nihar Mehta  
+<img width="1078" height="596" alt="image" src="https://github.com/user-attachments/assets/e8b9394c-5a4a-4ba3-95be-55e7a61165e8" /># Hi there 👋, I'm Nihar Mehta  
 
-🚀 **Computer Science Undergraduate | Full-Stack Developer | Machine Learning Enthusiast**  
+ **Computer Science Undergraduate | Full-Stack Developer | Machine Learning Enthusiast**  
 
 I'm passionate about solving real-world problems through technology, with hands-on experience in **full-stack development, data science, and AI/ML**. I love building impactful projects, competing in hackathons, and exploring innovative applications of deep learning.  
 
@@ -20,12 +20,12 @@ I'm passionate about solving real-world problems through technology, with hands-
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nihar245&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)](https://github.com/nihar245)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nihar245&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397)](https://github.com/nihar245)
 
 ### 📈 GitHub Statistics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihar245&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=c9d1d9"/>
@@ -34,10 +34,10 @@ I'm passionate about solving real-world problems through technology, with hands-
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=nihar245&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/nihar245)
 
-### 📊 Contribution Graph
+### Contribution Graph
 [![Nihar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihar245&theme=github-compact&hide_border=true&bg_color=0D1117&color=e05397&line=e05397&point=c9d1d9)](https://github.com/nihar245)
 
-### 💻 Profile Views Counter
+### Profile Views Counter
 ![](https://komarev.com/ghpvc/?username=nihar245&style=for-the-badge&color=e05397)
 
 </div>
