@@ -26,10 +26,6 @@ I'm passionate about solving real-world problems through technology, with hands-
    🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nihar245&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=c9d1d9&line_height=27" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihar245&theme=radical" alt="GitHub Contribution Graph" />
 </p>
 
