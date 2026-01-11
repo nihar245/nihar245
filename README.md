@@ -22,26 +22,25 @@ I'm passionate about solving real-world problems through technology, with hands-
 
 ## GitHub Analytics
 
+### 📊 GitHub Stats
 <div align="center">
-   🔥 GitHub Activity
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nihar245&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihar245&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=c9d1d9"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihar245&theme=radical" alt="GitHub Contribution Graph" />
-</p>
+### 🔥 Contribution Streak
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=nihar245&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+</div>
 
-### 📈 GitHub Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nihar245&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihar245&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=c9d1d9"/>
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihar245&custom_title=Nihar's%20Contribution%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=c9d1d9&area_color=e05397&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=nihar245&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/nihar245)
-
-### Contribution Graph
-[![Nihar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nihar245&theme=github-compact&hide_border=true&bg_color=0D1117&color=e05397&line=e05397&point=c9d1d9)](https://github.com/nihar245)
-
-### Profile Views Counter
-![](https://komarev.com/ghpvc/?username=nihar245&style=for-the-badge&color=e05397)
-
+### Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nihar245&style=for-the-badge&color=e05397" alt="Profile Views"/>
 </div>
 
 ---
