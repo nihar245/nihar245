@@ -30,7 +30,7 @@ I'm passionate about solving real-world problems through technology, with hands-
 
 ### 🔥 Contribution Streak
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=nihar245&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihar245&custom_title=Contribution%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=c9d1d9&area_color=e05397&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ### 📈 Contribution Graph
