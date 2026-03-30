@@ -9,7 +9,7 @@ I'm passionate about solving real-world problems through technology, with hands-
 ## 🔹 About Me
 - 🎓 **B.Tech. CSE** @ Nirma University (CGPA: 8.62)  
 - 📚 **Minor in Data Science** @ IIT Guwahati (Online, 2025)  
-- 🏆 **Kaggle Expert** | Hackathon Finalist  
+- 🏆 **Kaggle Expert** | 2x Hackathon Winner | India AI Impact Summit Buildathon Finalist
 - 💡 Interested in **AI for healthcare, NLP, and scalable web systems**  
 
 ---
