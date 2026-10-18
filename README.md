@@ -123,26 +123,60 @@ An AI-powered interface that translates natural-language questions into database
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nihar245&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=e05397&icon_color=e05397&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nihar245&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=e05397&text_color=c9d1d9" alt="Most Used Languages" />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nihar245&theme=radical"
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nihar245&theme=radical"
+    alt="Repositories by Language"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nihar245&theme=radical"
+    alt="Most Used Languages by Commits"
+    width="49%"
+  />
+
+</div>
+
+<div align="center">
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nihar245&theme=radical"
+    alt="GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nihar245&theme=radical&utcOffset=5.5"
+    alt="Productive Time"
+    width="49%"
+  />
+
 </div>
 
 ### 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nihar245&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Contribution Streak" />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nihar245&theme=radical&hide_border=true&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
+    alt="GitHub Contribution Streak"
+  />
+
 </div>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nihar245&custom_title=Nihar's%20Contribution%20Graph&bg_color=0D1117&color=e05397&line=e05397&point=c9d1d9&area_color=e05397&area=true&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
-</div>
-
----
 
 ## 🐍 Watch My Contributions Get Eaten!
 
