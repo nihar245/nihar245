@@ -178,28 +178,36 @@ An AI-powered interface that translates natural-language questions into database
 </div>
 
 
-## 🐍 Watch My Contributions Get Eaten!
+
+<h3 align="center">🐍 Watch My Contributions Get Eaten!</h3>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihar245/nihar245/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihar245/nihar245/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/nihar245/nihar245/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/nihar245/nihar245/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </div>
 
 ---
 
-## 🤝 Connect With Me
+<h3 align="center">🤝 Connect With Me</h3>
 
 <div align="center">
+  <a href="mailto:niharmehta245@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E05397?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/NiharMehta245">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/nihar245">
+    <img src="https://img.shields.io/badge/GitHub-nihar245-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-[![Email](https://img.shields.io/badge/Email-niharmehta245%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharmehta245@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/NiharMehta245)
-[![GitHub](https://img.shields.io/badge/GitHub-nihar245-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihar245)
-
-<img src="https://komarev.com/ghpvc/?username=nihar245&style=for-the-badge&color=e05397" alt="Profile Views" />
-
-*Building practical AI systems, one problem at a time. ✨*
-
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=nihar245&style=flat-square&color=e05397&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br/><br/>
+  <i>Building practical AI systems, one problem at a time. ✨</i>
 </div>
